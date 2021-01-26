@@ -1,4 +1,6 @@
-### Oh, hi there! 👋
+![profile cover image](https://github.com/jennifer-carey/jennifer-carey/blob/main/github-profile-cover.png)
+
+## Oh, hi there! 👋
 
 After a career as an accidental Digital Marketer in the travel industry, I've decided to merge my knowledge of content writing and SEO with my curiosity for web development and UX. 
 
