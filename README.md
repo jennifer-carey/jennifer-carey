@@ -4,7 +4,7 @@ After a career as an accidental Digital Marketer in the travel industry, I've de
 
 I'm currently studying web development and software engineering on an immersive 12-week coding bootcamp with Code Nation.
 
-The repos you'll see on my Github, as well as my projects on [CodePen](https://codepen.io/jennyhmc), are an insight into my coding journey so far.
+The repos you'll see on my GitHub, as well as my projects on [CodePen](https://codepen.io/jennyhmc), are an insight into my coding journey so far.
 
 Some fast facts:
 - 🌱 Currently learning about the wonderful world of Javascript.
