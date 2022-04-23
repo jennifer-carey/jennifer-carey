@@ -1,4 +1,4 @@
-![profile cover image](https://github.com/jennifer-carey/jennifer-carey/blob/main/github-profile-cover.png)
+![profile cover image](https://github.com/jennifer-carey/jennifer-carey/blob/main/profile-image.png)
 
 ## Oh, hi there! 👋
 
